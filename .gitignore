@@ -1,0 +1,17 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Arquivos de cache do Visual Studio
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+
+# Arquivos gerados pelo Unity
+sysinfo.txt
